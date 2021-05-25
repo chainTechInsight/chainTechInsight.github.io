@@ -270,6 +270,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 214)
   jekyll-feed (~> 0.12)
+  jekyll-remote-theme
   jekyll-theme-clean-blog
   tzinfo (~> 1.2)
   tzinfo-data
