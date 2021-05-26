@@ -21,10 +21,10 @@
 title: 区块链技术深度洞察
 email: chain.TechInsight@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are
+  Find or create excellent chain to use in Mars.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 github_username:  chainTechInsight
 
 # Build settings
